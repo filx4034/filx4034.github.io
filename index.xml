@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>My attempt at making a website</title>
-    <link>http://localhost:1313/</link>
+    <link>https://filx4034.github.io/</link>
     <description>Recent content on My attempt at making a website</description>
     <generator>Hugo -- 0.147.9</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 30 Jun 2025 02:20:36 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://filx4034.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction</title>
-      <link>http://localhost:1313/posts/introduction/</link>
+      <link>https://filx4034.github.io/posts/introduction/</link>
       <pubDate>Mon, 30 Jun 2025 02:20:36 +0200</pubDate>
-      <guid>http://localhost:1313/posts/introduction/</guid>
+      <guid>https://filx4034.github.io/posts/introduction/</guid>
       <description>&lt;p&gt;I figured I should probably introduce myself properly, since it could be very difficult to actually get a feeling for what kind of person I am through the thousands of posts on my Twitter account.&lt;/p&gt;
 &lt;p&gt;My name is mostly irrelevant. My real name is Felix (I&amp;rsquo;m not revealing anything too crazy, I think the name is quite common). At least in Germany, where I live. My real name isn&amp;rsquo;t really what I go by on most sites. That would be either Fistus or filx4034. The latter is simply the result of me smashing my head into my keyboard when creating my Twitter account and the website just automatically added the numbers.&lt;/p&gt;</description>
     </item>
     <item>
       <title>First Attempt at making a website</title>
-      <link>http://localhost:1313/posts/first-attempt/</link>
+      <link>https://filx4034.github.io/posts/first-attempt/</link>
       <pubDate>Mon, 30 Jun 2025 01:24:58 +0200</pubDate>
-      <guid>http://localhost:1313/posts/first-attempt/</guid>
+      <guid>https://filx4034.github.io/posts/first-attempt/</guid>
       <description>&lt;p&gt;I decided to make a website. Here, I will explain why I am doing this, what I used for this. Yeah, I think that&amp;rsquo;s all. This &amp;ldquo;post&amp;rdquo; is very much just a test to see if it actually works.&lt;/p&gt;
 &lt;h1 id=&#34;why-am-i-doing-this&#34;&gt;Why am I doing this?&lt;/h1&gt;
 &lt;p&gt;When posting on &lt;a href=&#34;https://x.com/filx4034&#34;&gt;Twitter&lt;/a&gt;, I often notice that my thoughts get way too long for the platform, so I recently started playing again with the idea of having my own website. Admittedly, I&amp;rsquo;ve had this idea fairly often, but this is the first time I&amp;rsquo;m actually doing it.&lt;/p&gt;</description>
